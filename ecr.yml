@@ -8,7 +8,7 @@ on:
       # more branches
 
 env:
-  AWS_REGION: us-east-1
+  AWS_REGION: your-aws-region
   ECR_REPOSITORY: your-ecr-repository
 
 permissions:
